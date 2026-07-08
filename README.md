@@ -4,8 +4,7 @@ Hi there 👋
 🌱 I'm learning advanced penetration testing and threat detection through my CEHv13 (Certified Ethical Hacker) training.
 💻 I'm passionate about network security, vulnerability assessment, and ethical hacking — turning technical curiosity into real-world defense.
 
-📫 **Reach me at:** kakaralasairam3@gmail.com | 🔗 LinkedIn: [add your link] | 🎯 TryHackMe: [add your profile link]
-
+📫 **Reach me at:** kakaralasairam3@gmail.com
 💼 **Featured Projects**
 - 🔐 Secure Chat Platform – QR authentication, encrypted communication, phishing URL detection
 - ⛓️ Certificate Verification System – Blockchain-based verification using Ethereum smart contracts, IPFS, and QR validation
