@@ -4,8 +4,7 @@ Hi there 👋
 🌱 I'm learning advanced penetration testing and threat detection through my CEHv13 (Certified Ethical Hacker) training.
 💻 I'm passionate about network security, vulnerability assessment, and ethical hacking — turning technical curiosity into real-world defense.
 
-🌐 **Portfolio:**
-👉 https://sumanth3036.github.io/my-portfolio/
+📫 **Reach me at:** kakaralasairam3@gmail.com | 🔗 LinkedIn: [add your link] | 🎯 TryHackMe: [add your profile link]
 
 💼 **Featured Projects**
 - 🔐 Secure Chat Platform – QR authentication, encrypted communication, phishing URL detection
@@ -13,6 +12,11 @@ Hi there 👋
 - 🗂️ Layered Encryption for Document Sharing – Multi-layer encryption with protected file access
 - 🐞 Software Bug Predictor – ML-based defect prediction with explainable AI
 - ⚡ AI Powered Code Execution Platform – Cloud-based execution with AI-assisted debugging and secure Docker sandboxing
+
+🎓 **Certifications**
+- Certified Ethical Hacker (CEHv13) Training — *Expected Aug 2026*
+- AWS Academy Graduate: Cloud Foundations, Cloud Operations, Machine Learning Foundations
+- Cisco Networking Academy: Packet Tracer (Intro, Getting Started, Exploring Networking, Exploring IoT)
 
 ## **Tech Stack ⚙️**
 
